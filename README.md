@@ -4,7 +4,7 @@ Project #1: Wedding Cost Prediction (Linear Regression From Scratch)**.
 
 This project applies **machine learning fundamentals** to predict wedding costs using a fully custom implementation of **linear regression with gradient descent** (built from scratch using only NumPy).
 
-It is part of my AI/ML learning journey, where I build foundational algorithms manually to deeply understand how models learn before transitioning to more advanced architectures (neural networks, transformers, MCP agents, and knowledge graphs).
+It is part of my AI/ML learning journey, where I build foundational algorithms manually to deeply understand how models learn before transitioning to more advanced architectures.
 
 ---
 
@@ -184,7 +184,7 @@ It includes:
 ### 1. Clone the repo
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/hazellef-hub/wedding_cost_data_mlregression.git
 cd wedding-cost-ml-regression
 ```
 
