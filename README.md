@@ -128,7 +128,7 @@ The training notebook visualizes how the loss decreases over time, confirming su
 
 Weights were unscaled to interpret the model in actual dollars.
 
-Examples of insights (your notebook prints exact values):
+Examples of insights:
 
 * **guest_count** → $X added per additional guest
 * **decor_level** → $Y added per upgrade in decor tier
@@ -228,9 +228,3 @@ notebooks/01_wedding_cost_regression.ipynb
 * How to structure an ML project end-to-end
 
 ---
-
-##  Next Steps (Portfolio Project 2)
-
-➡️ Implement **Logistic Regression From Scratch**
-➡️ Build a **Gradient Descent Visualizer**
-➡️ Begin building ML & AI portfolio on GitHub
